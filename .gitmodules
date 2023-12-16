@@ -1,3 +1,6 @@
 [submodule "flanders"]
 	path = flanders
 	url = https://github.com/Charleswang8711/interview-flanders.git
+[submodule "qima"]
+	path = qima
+	url = git@github.com:Charleswang8711/interview.git
